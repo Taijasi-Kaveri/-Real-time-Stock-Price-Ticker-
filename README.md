@@ -33,7 +33,7 @@ To use the project, you'll need to:
 This project was created by me.
 
 ## License
-This project is licensed under the [License Name] License. See the LICENSE file for more information.
+This project is licensed under the MIT License
 
 
 
